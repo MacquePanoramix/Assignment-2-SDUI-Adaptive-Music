@@ -1,0 +1,65 @@
+Get Low Down 		90.7 	hip hop, old school, west coast, funk
+Stacks 			110 	hip hop, old school, west coast, funk
+Amplified Space 	94.8 	hip hop, downbeat, urban, funk
+Jae's Groove 		89 	hip hop, downbeat, urban, funk
+Gangsta Walk 		91 	hip hop, urban, west coast, funk
+Calizone 		103 	hip hop, urban, west coast, funk
+Jackie's Garage 	120 	techno, house
+Othello 		123 	techno, house
+The Deep 		122 	techno, minimal, house
+Yezz 			120 	techno, minimal, house
+Artificial Intelligence 140 	IDM, electronica, broken, dub
+Haunted Cyborg 		140 	IDM, electronica, broken, dnb
+Radio Dub Mix 		123 	techno, minimal, house
+Control Denied 		125 	techno, minimal, house
+Static Magnetic 	128 	techno, minimal, house
+From Dub Till Dawn 	131 	electronica, techno
+Zarad 			119 	experimental, electronica
+Blith 			122 	techno, electronica
+Space Blapz 		94 	hip hop, urban, west coast, jazz
+Talisman 		125 	80s, synthpop, electro, glitch
+Wall Of Wonder 		132 	80s, synthpop, electro, glitch, downbeat
+Loft Arabica 		126 	techno, minimal, deep house
+Polyhymnia 		126 	techno, minimal, deep house
+Transatlantic 		128 	techno, minimal, deep house
+Think Complex 		130 	electro, EDM
+Sliced Bread 		128 	electro, EDM
+Stutter Step 		87 	downbeat, urban, funk
+Water Signs 		125 	downbeat, urban, funk, house
+Happy Daze 		121 	garage, UK funky, 2step
+Oh No 			126 	garage, UK funky, 2step
+This Feeling 		122 	garage, UK funky, 2step
+Mystic Temple 		167 	drum and bass, bass
+No Gravity 		167 	drum and bass, bass
+The Resident 		174 	drum and bass, bass
+Hornet2000 		87.66 	hip hop, old school, urban
+I-40 			72.79 	hip hop, old school, urban
+Crocodilian 		120 	techno, minimal
+The Trackers Tail 	120 	techno, minimal
+Hungarian Nights 	95 	IDM, hip hop, LA beatscene
+Shadow Gaze 		86 	IDM, hip hop, LA beatscene
+Starry Monkey 		97 	IDM, hip hop, LA beatscene
+Bad Penguin 		111 	dancehall, reggae, moombathon
+Grainy Dub 		133 	dub, dubstep, reggae
+Melodisto 		105 	dancehall, reggae, moombathon
+Drop Noir 		140 	dubstep, drum and bass
+Steppas Delight 	140 	dubstep, drum and bass
+Jelly Belly 		140 	dubstep, drum and bass
+Loaded 			136 	trap
+Monstaclat 		140 	trap
+Old Money 		143 	trap
+Hold Up 		120 	hip hop. downbeat, urban
+The Clouds 		115 	hip hop. downbeat, urban
+Hittin Hard 		79 	hip hop, trap, urban
+Salute 			143 	hip hop, trap, urban
+Slow Push 		142 	hip hop, downbeat, urban
+Supreme Dialogue 	88 	hip hop, downbeat, urban
+Fever Line 		110 	synthpop, electro, 80s
+Hot Toddy 		122 	synthpop, electro, 80s, house
+Trovinsky 		120 	synthpop, electro, 80s
+Ground Zero 		82 	hip hop, old school, urban
+Lights Out 		74 	hip hop, old school, urban
+Mountain Dawn 		75 	downbeat, urban
+Koronium 5 		85 	downbeat, urban
+Stockholm Syndrome 	128 	EDM
+Melbourne Slam 		128 	EDM 
